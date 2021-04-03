@@ -15,3 +15,6 @@ For using the complete context, we broke it into smaller parts of fixed lengths.
 #### Results
 
 ![result table](https://github.com/MiHarsh/FakeNewsDetection_MicrosoftKDD/blob/master/Visuals/Results.png?raw=true)
+
+#### [Link](https://youtu.be/NRlW0TEOU5U) to the presentation Video 
+
